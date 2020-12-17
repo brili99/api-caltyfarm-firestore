@@ -5,7 +5,7 @@ Untuk penggunaannya dapat dideploy di cpanel atau localhost (Dengan menjalankan 
 
 Contoh penggunaan dibawah mengunakan aplikasi Postman.
 
-Bisa dicek juga tenpa perlu deploy sendiri dengan Postman ke link https://fire-api-caltyfarm.caltymilk.com/api/
+Bisa dicek juga tanpa perlu deploy sendiri dengan Postman ke link https://fire-api-caltyfarm.caltymilk.com/api/
 
 **Contoh penambahan data**
 ![image](https://user-images.githubusercontent.com/49330514/102423410-8e533d00-403b-11eb-9971-293ef5d85e77.png)
