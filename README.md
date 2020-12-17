@@ -1,9 +1,9 @@
 # api-caltyfarm-firestore
 Proyek ini merupakan pembuatan api untuk aplikasi caltyfarm dengan database cloud firestore.
 
-Untuk penggunaannya dapat dideploy di cpanel atau localhost ( dengan menjalankan "node server.js" pada command line)
+Untuk penggunaannya dapat dideploy di cpanel atau localhost (Dengan menjalankan "node server.js" pada command line).
 
-Contoh penggunaan dibawah mengunakan aplikasi Postman
+Contoh penggunaan dibawah mengunakan aplikasi Postman.
 
 **Contoh penambahan data**
 ![image](https://user-images.githubusercontent.com/49330514/102423410-8e533d00-403b-11eb-9971-293ef5d85e77.png)
