@@ -2,6 +2,7 @@
 Proyek ini merupakan pembuatan api untuk aplikasi caltyfarm dengan database firebase.
 
 Untuk penggunaannya dapat dideploy di cpanel atau localhost ( dengan menjalankan "node server.js" pada command line)
+
 Contoh penggunaan dibawah mengunakan aplikasi Postman
 
 **Contoh penambahan data**
