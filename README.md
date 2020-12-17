@@ -1,6 +1,8 @@
 # api-caltyfarm-firestore
 proyek ini merupakan pembuatan api untuk aplikasi caltyfarm dengan database firebase
 
+Contoh penggunaan dibawah mengunakan aplikasi Postman
+
 **Contoh penambahan data**
 ![image](https://user-images.githubusercontent.com/49330514/102423410-8e533d00-403b-11eb-9971-293ef5d85e77.png)
 
@@ -14,4 +16,4 @@ proyek ini merupakan pembuatan api untuk aplikasi caltyfarm dengan database fire
 ![image](https://user-images.githubusercontent.com/49330514/102423702-3406ac00-403c-11eb-865d-3c6179024258.png)
 
 **Contoh delete data**
-![image](https://user-images.githubusercontent.com/49330514/102423779-54366b00-403c-11eb-81d2-c55ccaa782fe.png)
+![image](https://user-images.githubusercontent.com/49330514/102423879-91026200-403c-11eb-8f9e-751b4a8821d0.png)
