@@ -1,5 +1,5 @@
 # api-caltyfarm-firestore
-Proyek ini merupakan pembuatan api untuk aplikasi caltyfarm dengan database firebase.
+Proyek ini merupakan pembuatan api untuk aplikasi caltyfarm dengan database cloud firestore.
 
 Untuk penggunaannya dapat dideploy di cpanel atau localhost ( dengan menjalankan "node server.js" pada command line)
 
